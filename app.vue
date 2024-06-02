@@ -1,9 +1,9 @@
 <template>
   <div>
-    <GenericsHeader />
+    <GenericsGenericHeader />
     <main>
       <NuxtPage />
     </main>
-    <GenericsFooter/>
+    <GenericsGenericFooter />
   </div>
 </template>
